@@ -5,16 +5,16 @@ Data Visualization using Matplotlib
 
 Simple bar and scatter plots
 CPU_final - Same as before, but with more details:  
-![cpu](resources/cpulivedata.gif)  
+![cpu](Matplotlib-real-time Data Vizualizaion/resources/cpulivedata.gif)  
 
 >>first.py
 
 Intermediatte bar plot and outputs as image
 CPU_final - Same as before, but with more details:  
-![first](first.png)  
+![first](first.PNG)  
 
 >>second.py
 
 Raw CPU and RAM live data
 CPU_final - Same as before, but with more details:  
-![second](/second.png)  
+![second](/second.PNG)  
