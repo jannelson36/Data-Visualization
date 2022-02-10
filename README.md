@@ -5,7 +5,7 @@ Data Visualization using Matplotlib
 
 Simple bar and scatter plots
 CPU_final - Same as before, but with more details:  
-![cpu](resources/cpulivedata.gif)  
+![cpu](Matplotlib-real-time Data Vizualizaion/resources/cpulivedata.gif)  
 
 >>first.py
 
