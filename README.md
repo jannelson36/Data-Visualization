@@ -1,11 +1,14 @@
 # Python
 Data Visualization using Matplotlib 
 
-datavisuals.py
+>>datavisuals.py
+
 Simple bar and scatter plots
 
-first.py
+>>first.py
+
 Intermediatte bar plot and outputs as image
 
-second.py
+>>second.py
+
 Raw CPU and RAM live data
