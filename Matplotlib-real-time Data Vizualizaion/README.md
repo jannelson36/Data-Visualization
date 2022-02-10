@@ -1,4 +1,4 @@
-# Matplotlib-real-time-viz
+# Matplotlib-real-time Data Vizualization
 Real-time data visualization with Matplotlib's FuncAnimation
 
 Code from the article:  
