@@ -1,5 +1,5 @@
 # Python
-Data Visualization using Matplotlib 
+Data Visualization using Matplotlib in a virtual environment
 
 >>datavisuals.py
 
