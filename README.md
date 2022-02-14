@@ -10,11 +10,10 @@ CPU_final - Same as before, but with more details:
 >>first.py
 
 Intermediatte bar plot and outputs as image
-CPU_final - Same as before, but with more details:  
 ![first](res/first.PNG)  
 
 >>second.py
 
 Simple bar and scatter plots
-CPU_final - Same as before, but with more details:  
+Student results visualization:  
 ![second](res/second.PNG)  
