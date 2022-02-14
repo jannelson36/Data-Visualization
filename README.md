@@ -14,6 +14,6 @@ Intermediatte bar plot and outputs as image
 
 >>second.py
 
-Simple bar and scatter plots
+Simple bar and scatter plots <br>
 Student results visualization:  
 ![second](res/second.PNG)  
