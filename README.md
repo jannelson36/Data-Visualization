@@ -9,7 +9,7 @@ CPU_final - Same as before, but with more details:
 
 >>first.py
 
-Intermediatte bar plot and outputs as image
+Intermediatte bar plot and outputs as image <br>
 ![first](res/first.PNG)  
 
 >>second.py
