@@ -1,6 +1,6 @@
 # Python - Data Visualization
 
->> Data Visualization using Matplotlib (./0x00-python-hello_world), Plotly & Streamlit in a virtual environment
+>> Data Visualization using Matplotlib, Plotly & Streamlit in a virtual environment
 
 ```
 Table of Content
