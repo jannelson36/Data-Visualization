@@ -35,27 +35,31 @@ Code from the article:
 
 
 #### Scripts 
+<br>
 
->>CPU_v1.py
-Draw two simple charts with CPU and memory information:  
+>> CPU_v1.py
+Draw two simple charts with CPU and memory information:  <br> 
 
 ![cpu_v1](resources/cpu_v1.gif)  
+<br>
 
->>CPU-LiveData.py
+>> CPU-LiveData.py
 
-CPU_final - Same as before, but with more details: 
+CPU_final - Same as before, but with more details:  <br>
 
 ![cpu](resources/cpulivedata.gif)  
+<br>
 
->>Map.py
+>> Map.py
 
-Map - Plots a map with data from an Excel file:  
+Map - Plots a map with data from an Excel file:   <br>
 
-![map](resources/map.gif)  
+![map](resources/maps.gif) 
+ <br> 
 
->>Clock-time.py
+>> Clock-time.py
 
-Clock - Plot a donut chart clock:  
+Clock - Plot a donut chart clock:   <br>
 
 ![clock](resources/clocktime.gif)  
 
