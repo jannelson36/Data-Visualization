@@ -1,5 +1,6 @@
 # Python - Data Visualization
 
+>> Data Visualization using Matplotlib, Plotly & Streamlit in a virtual environment
 
 ```
 Table of Content
@@ -16,7 +17,7 @@ Table of Content
 ```
 
 
-Data Visualization using Matplotlib in a virtual environment
+### Data Visualization using Matplotlib in a virtual environment
 
 >>datavisuals.py
 
