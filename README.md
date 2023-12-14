@@ -1,6 +1,6 @@
 # Python - Data Visualization
 
-## Project Content
+## Table of Content
 ```
 .
 ├── Matplotlib-real-time Data Vizualizaion
