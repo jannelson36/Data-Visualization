@@ -1,4 +1,20 @@
-# Python
+# Python - Data Visualization
+
+## Project Content
+```
+.
+├── Matplotlib-real-time Data Vizualizaion
+├── plant_analytics
+├── res
+├── README.md
+├── datavisuals.py
+├── first.py
+├── pyplot-table-original.png
+├── requirements.txt
+└── second.py
+```
+
+
 Data Visualization using Matplotlib in a virtual environment
 
 >>datavisuals.py
